@@ -1,4 +1,4 @@
-# 📊 ShopifyIQ
+#  ShopifyIQ
 
 ### Transforming E-Commerce Data into Actionable Business Intelligence
 
@@ -8,13 +8,13 @@ Built using React, TypeScript, Firebase, Tailwind CSS, and Recharts, ShopifyIQ t
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
-🔗 Coming Soon
+ Coming Soon
 
 ---
 
-## 📌 Overview
+##  Overview
 
 E-commerce businesses generate massive amounts of data every day, but extracting meaningful insights from this data remains a challenge.
 
@@ -29,7 +29,7 @@ ShopifyIQ helps businesses:
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 Many businesses struggle with:
 
@@ -43,9 +43,9 @@ ShopifyIQ addresses these challenges by providing an intuitive analytics dashboa
 
 ---
 
-## ✨ Features
+##  Features
 
-### 📈 Sales Analytics
+###  Sales Analytics
 
 - Revenue Tracking
 - Sales Trend Analysis
